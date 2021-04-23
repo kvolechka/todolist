@@ -65,6 +65,7 @@ input {
     width: 100%;
     height: 25px;
     font-weight: bolder;
+    background-color: #9496b5;
 }
 
 .button-wrapper {
